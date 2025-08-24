@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+google-generativeai==0.3.2
+numpy==1.24.3
+Pillow==10.0.1
+matplotlib==3.7.2
+torch>=1.9.0
+torchvision>=0.10.0 
